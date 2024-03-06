@@ -1,0 +1,3 @@
+[submodule "Magacin"]
+	path = Magacin
+	url = https://github.com/dulait/Magacin.git
